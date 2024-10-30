@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Bikash208
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m BIkash Sahu
+- 👀 I’m interested in Java Developer
+- 🌱 I’m currently learning Java,JavaScript,C,Html,Css,React....etc
+- 💞️ I’m looking to collaborate on WebDev
+- 📫 How to reach me - bsahu3840@gmail.com
+- 😄 Pronouns: B I K A S H 
+- ⚡ Fun fact: I'm Vegeterian 😃😁
 
-![logo](https://github.com/Anubhaba-git/Anubhaba-git/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Bikash Sahu</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
