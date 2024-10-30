@@ -1,11 +1,3 @@
-- 👋 Hi, I’m BIkash Sahu
-- 👀 I’m interested in Java Developer
-- 🌱 I’m currently learning Java,JavaScript,C,Html,Css,React....etc
-- 💞️ I’m looking to collaborate on WebDev
-- 📫 How to reach me - bsahu3840@gmail.com
-- 😄 Pronouns: B I K A S H 
-- ⚡ Fun fact: I'm Vegeterian 😃😁
-
 <h1 align="center">Hi 👋, I'm Bikash Sahu</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
@@ -15,6 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaba-git&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaba-git" /> </p>
 
 - 📫 How to reach me *bsahu3840@gmail.com*
+- 👋 Hi, I’m BIkash Sahu
+- 👀 I’m interested in Java Developer
+- 🌱 I’m currently learning Java,JavaScript,C,Html,Css,React....etc
+- 💞️ I’m looking to collaborate on WebDev
+- 📫 How to reach me - bsahu3840@gmail.com
+- 😄 Pronouns: B I K A S H 
+- ⚡ Fun fact: I'm Vegeterian 😃😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
